@@ -1,0 +1,36 @@
+{
+  "name": "google-login-phishing-demo",
+  "version": "1.0.0",
+  "description": "Demonstração educacional de phishing para fins de cybersegurança",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Build completed'",
+    "start": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "phishing",
+    "cybersecurity",
+    "education",
+    "security-awareness",
+    "google-login",
+    "demo"
+  ],
+  "author": "Cybersecurity Education",
+  "license": "MIT",
+  "devDependencies": {
+    "vercel": "^32.0.0"
+  },
+  "engines": {
+    "node": ">=14.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seu-usuario/google-login-phishing-demo"
+  },
+  "bugs": {
+    "url": "https://github.com/seu-usuario/google-login-phishing-demo/issues"
+  },
+  "homepage": "https://github.com/seu-usuario/google-login-phishing-demo#readme"
+}
